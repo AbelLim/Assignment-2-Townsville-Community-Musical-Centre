@@ -71,7 +71,7 @@ a:hover {
 	height:380px;
 	animation: banner 5s infinite alternate ease-in-out;
 	animation-delay:-5s;
-	background-image:url(images/events/TGOorch300.jpg);
+	background-image:url(images/events/Serenade-banner.jpg);
 	background-repeat:no-repeat;
 	background-size:100%;
 }
@@ -154,7 +154,7 @@ a:hover {
 
 .content-cell img{
 	display:block;
-	max-width:auto;
+	max-width:100%;
 	max-height:38%;
 	margin-left:auto;
 	margin-right:auto;
@@ -165,6 +165,7 @@ a:hover {
 	padding:2em;
 	width:80%;
 	height:auto;
+	background-image:url(images/SiteImages/Parchment.jpg);
 }
 
 .content-row-left h1{
@@ -187,6 +188,7 @@ a:hover {
 	padding:2em;
 	width:80%;
 	height:auto;
+	background-image:url(images/SiteImages/Parchment.jpg);
 }
 
 .content-row-right h1{
